@@ -1,0 +1,46 @@
+.mem{
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+}
+body{
+    /* background:  url("/static/twerk2.jpg") no-repeat center/cover ; */
+    
+    color: white;
+    background-color: black;
+}
+h1{
+    font-size: 55px;
+    text-align: center;
+}
+h2{
+    font-size: 35px;
+   
+   
+    padding-left: 20px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+h3{
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: auto;
+    background-color: white;
+  padding: 10px;
+    color: black;
+    width: fit-content;
+}
+.box{
+    
+    display: grid;
+   
+}
+.box img{
+    padding: 20px;
+    width: 250px;
+    height: 300px;
+}
+.box p{
+    padding-left: 15px;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
